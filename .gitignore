@@ -1,0 +1,13 @@
+# Client
+client/node_modules
+client/build
+client/npm-debug.log*
+
+# Server
+server/build
+server/executables
+server/node_modules
+server/poDb
+server/pos
+
+# Misc
